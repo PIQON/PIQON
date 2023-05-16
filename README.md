@@ -11,7 +11,12 @@
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![CSS](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=ffbe0b)
+  ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=ffbe0b)
+  ![REACT](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=2361DAFB)
+  ![REACTROUTER](https://img.shields.io/badge/-ReactRouter-333333?style=flat&logo=ReactRouter&logoColor=ffffff)
+  ![REACTQUERY](https://img.shields.io/badge/-ReactQuery-333333?style=flat&logo=ReactQuery&logoColor=ffbe0b)
+  ![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=ffbe0b)
+  ![REACTHOOKFORM](https://img.shields.io/badge/-ReactHookForm-333333?style=flat&logo=ReactHookForm&logoColor=ffbe0b)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
